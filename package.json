@@ -1,0 +1,17 @@
+{
+  "name": "smart-contract-deployer",
+  "version": "1.0.0",
+  "description": "Deploy smart contract on ganache",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxtho8",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.3"
+  }
+}
